@@ -1,0 +1,63 @@
+/*CSS par alterações de classes no materialize*/
+
+.margin-t10{
+	margin-top: 10px;
+}
+.margin-t25{
+	margin-top: 25px;
+}
+.margin-t50{
+	margin-top: 50px;
+}
+.margin-t100{
+	margin-top: 100px;
+}
+.margin-r10{
+	margin-right: 10px;
+}
+.margin-r25{
+	margin-right: 25px;
+}
+.margin-r50{
+	margin-right: 50px;
+}
+.margin-r100{
+	margin-right: 100px;
+}
+.margin-b10{
+	margin-bottom: 10px;
+}
+.margin-b25{
+	margin-bottom: 25px;
+}
+.margin-b50{
+	margin-bottom: 50px;
+}
+.margin-b100{
+	margin-bottom: 100px;
+}
+.margin-l10{
+	margin-left: 10px;
+}
+.margin-l25{
+	margin-left: 25px;
+}
+.margin-l50{
+	margin-left: 50px;
+}
+.margin-l100{
+	margin-left: 100px;
+}
+
+a{
+	color: black !important;
+}
+
+.card>.card-image>i.material-icons {
+	position: absolute;
+	z-index: 2;
+}
+
+ul li{
+	list-style: circle !important;
+}
